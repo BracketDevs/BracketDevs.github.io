@@ -1,3 +1,10 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
@@ -6,15 +13,21 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            BracketDevs
+tagline:          'Computer Scientist'
+#description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+#description: > # this means to ignore newlines until "baseurl:"
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
+description:      'Computer Scientist.  Passionately & incessantly optimizing the world around me'
+url:              https://bracketdevs.github.io # the base hostname & protocol for your site
+baseurl:          "" # the subpath of your site, e.g. /blog
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'BracketDevs'
+  email:
+  url:            https://bracketdevs.github.io
 
 paginate:         5
 
@@ -23,4 +36,5 @@ version:          2.1.0
 gems: [jekyll-paginate]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://bracketdevs.github.io
+
