@@ -38,3 +38,8 @@ gems: [jekyll-paginate]
 github:
   repo:           https://bracketdevs.github.io
 
+# to get it to build on windows
+# https://github.com/jekyll/jekyll/issues/4705
+# https://help.github.com/articles/repository-metadata-on-github-pages/
+repository: BracketDevs/bracketdevs.github.io
+
