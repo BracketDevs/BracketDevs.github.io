@@ -1,7 +1,7 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <img style="max-width: 80%; height: auto; position: relative; border-radius: 10%; display: block; margin: 0 auto; top: 0px;" src="assets/website_photo1_small.jpg" alt="its me">
+      <img style="max-width: 80%; height: auto; position: relative; border-radius: 10%; display: block; margin: 0 auto; top: 0px;" src="{{ site.baseurl }}assets/website_photo1_small.jpg" alt="its me">
       <h2>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -27,7 +27,6 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Projects</a>
       {% comment %}
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>

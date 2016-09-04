@@ -22,7 +22,7 @@ tagline:          'Computer Scientist'
   #Google search results) and in your feed.xml site description.
 description:      'Computer Scientist.  Problem-solving connoisseur, passionately & incessantly optimizing the world around me'
 url:              https://bracketdevs.github.io # the base hostname & protocol for your site
-baseurl:          "" # the subpath of your site, e.g. /blog
+baseurl:          / # the subpath of your site, e.g. /blog
 
 author:
   name:           'BracketDevs'
@@ -42,4 +42,3 @@ github:
 # https://github.com/jekyll/jekyll/issues/4705
 # https://help.github.com/articles/repository-metadata-on-github-pages/
 repository: BracketDevs/bracketdevs.github.io
-

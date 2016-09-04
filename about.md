@@ -1,9 +1,13 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 <p class="message">
+  There's nothing I love more than
+  I'm passionate about human-rights and public interest.
+  Passionate about continuously learning, bettering myself and seeking to better the environment around me
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
