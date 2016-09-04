@@ -6,6 +6,7 @@ permalink: /projects/
 ## Some cool things I've worked on over the years
 
 ### 2016 - Portfolio Reporting System
+
   * Designed system for FinTech startup, to digitize & automate the lengthy process of using various business data to create customer reports  
   * Worked closely with business-side, mapping finance domain.  Set of tools
   * Tech: Python, Pandas, Django, PostgreSQL, PDI/Kettle
@@ -54,6 +55,9 @@ Tengo experiencia desarrollando aplicaciones basadas los siguientes lenguajes.
   var adder = new Function("a", "b", "return a + b");
   {% endhighlight %}
 
+  <div class="message">
+    Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  </div>
 
   <table>
     <thead>
