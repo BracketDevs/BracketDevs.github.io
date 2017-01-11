@@ -3,13 +3,18 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
+<p class="message">
+This is an "under construction" message, don't judge me
+</p>
+
 ## Some cool things I've worked on over the years
 {:.no_toc}
 
 * TOC
 {:toc}
 
-### 2016 - Portfolio Reporting System
+### 2016 - Financial Reporting System
 
 Designed system for FinTech startup, to digitize & automate the lengthy process of using various business data to create customer reports
 

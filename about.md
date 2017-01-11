@@ -1,34 +1,26 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-<p class="message">
-  There's nothing I love more than
-  I'm passionate about human-rights and public interest.
-  Passionate about continuously learning, bettering myself and seeking to better the environment around me
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<!-- <p class="message"> -->
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I have been lucky in my life, to have had the chance to expose myself to different peoples, countries, mindsets, approaches to life, and consequently fields and areas of Computer Science. Coming from a very multi-cultural family background myself, there is nothing I value more than diversity of thought.
 
-There are currently two themes built on Poole:
+Diversity of thought, in problem solving, in Computer Science, is often what leads to an optimal solution. It gives one the skills to assess and analyze a problem from different angles, be willing to seek out feedback, be aware of the need for a bird's eye view when in the midst of complex details and be able to accurately grasp all dimensions of a problem and use that to formulate a solution.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Examples of my experiences include the research world, wherein I worked on a Human-Robot Interaction project where we deployed a bi-lingual robotic receptionist at Carnegie Mellon. We deployed and tested the Braille Writing Tutor device at schools to help blind children learn Braille; likewise software to aid in the learning of sign language. I made the switch to industry some years back and currently work on developing systems to digitize and automate core-business processes at a FinTech startup.  When it comes to software, I enjoy back-end development in languages such as C++, Java and Python.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I am motivated by the opportunity to learn, to increase the breadth and depth of my knowledge. By the experience of being surrounded by motivated and inspiring people who enjoy debating and discussing Computer science, algorithms, problems, solutions and approaches. By the chance to work on something I believe in.
 
-## Setup
+You'd be most welcome to introduce yourself via [Linkedin](https://www.linkedin.com/in/ameerdev) or [email](mailto:ameer@alumni.cmu.edu)
 
-Some fun facts about the setup of this project include:
+<!-- </p> -->
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+<!-- ## Setup -->
 
 Thanks for reading!
+
+Ameer
