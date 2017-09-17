@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 <p class="message">
-This is an "under construction" message :)
+This is an "under construction" message, don't judge me
 </p>
 
 ## Some cool things I've worked on over the years
