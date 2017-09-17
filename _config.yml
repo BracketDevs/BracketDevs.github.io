@@ -22,7 +22,8 @@ tagline:          'Computer Scientist'
   #Google search results) and in your feed.xml site description.
 description:      'Computer Scientist.  Problem-solving connoisseur.  Passionately & incessantly optimizing the world around me'
 url:              https://bracketdevs.github.io # the base hostname & protocol for your site
-baseurl:          / # the subpath of your site, e.g. /blog
+# http://ben.balter.com/jekyll-style-guide/config/#baseurl
+#baseurl:          '' #/ # the subpath of your site, e.g. /blog
 
 author:
   name:           'BracketDevs'
@@ -37,6 +38,10 @@ gems: [jekyll-paginate]
 
 github:
   repo:           https://bracketdevs.github.io
+  source:
+    branch: master
+
+
 
 # to get it to build on windows
 # https://github.com/jekyll/jekyll/issues/4705
