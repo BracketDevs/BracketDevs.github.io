@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+{{ site.url }}
+
 The best ways to reach me would be:
 
 * Shoot me an [email](mailto:ameer@alumni.cmu.edu)
