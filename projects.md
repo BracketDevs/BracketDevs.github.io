@@ -28,9 +28,9 @@ Designed system for FinTech startup, to digitize & automate the lengthy process 
   * What I learned:
   * Tech: C++, VIRES Virtual Test Drive (VTD), EB-Assist Automotive Data and Time-Triggered Framework (ADTF), Altera Cyclone or Atratix FPGA
 
-<img style="max-width: 80%; height: auto; position: relative; display: block; margin: 0 auto; top: 0px;" src="{{ site.baseurl }}assets/projects/4_framework.svg" alt="Framework">
+<img style="max-width: 80%; height: auto; position: relative; display: block; margin: 0 auto; top: 0px;" src="{{site.url }}/assets/projects/4_framework.svg" alt="Framework">
 
-<img style="max-width: 80%; height: auto; position: relative; border: 1px solid black; border-radius: 1%; display: block; margin: 0 auto; top: 0px;" src="{{ site.baseurl }}assets/projects/4_adtf_run.png" alt="System running">
+<img style="max-width: 80%; height: auto; position: relative; border: 1px solid black; border-radius: 1%; display: block; margin: 0 auto; top: 0px;" src="{{ site.url }}/assets/projects/4_adtf_run.png" alt="System running">
 
 
 Design and Implementation of a Framework for Hardware-In-The-Loop Simulation of Electronic Control Units
